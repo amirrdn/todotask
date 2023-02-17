@@ -1,0 +1,22 @@
+.modal-body .table tr td:nth-child(2){
+    width: 7px;
+}
+.modal-body .table tr{
+    line-height: 37px;
+    border-bottom: 1px solid #dee2e6;
+}
+.modal-body .table tr td .form-check-input{
+    position: relative;
+    top: 5px;
+}
+.modal-body .table tr td .form-check{
+    background-color: transparent;
+    position: relative;
+    top: 10px;
+}
+.modal-body .table tr td .mb-3{
+    background-color: transparent;
+}
+.modal-body .table tr td input{
+    background-color: transparent;
+}
